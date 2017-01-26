@@ -1,0 +1,8 @@
+name: MailPlugin
+main: me.cherrykit.Main
+version: 1.0
+
+commands:
+   mail:
+     description: Manage your mails.
+     usage: /mail <send/read/clear> (player) (message)
